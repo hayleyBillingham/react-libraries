@@ -1,0 +1,3 @@
+[submodule "RxJS"]
+	path = RxJS
+	url = https://github.com/hayleyBillingham/RxJS.git
